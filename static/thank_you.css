@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600&display=swap");
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+/* For desktop and larger devices */
+/* For desktop and larger devices */
+body {
+    background: #ffffff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Prevent background image from repeating */
+}
+
+/* For mobile devices */
+@media (max-width: 991px) {
+    body {
+        background-image: url('/static/images/mobile-ThankYou.png');
+        background-size: cover; /* Ensure responsiveness on mobile */
+        background-position: center; /* Center the background image on mobile */
+        background-repeat: no-repeat; /* Prevent background image from repeating */
+        /* Add any additional styles for mobile background here */
+    }
+}
+
+.ashram-box {
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.ashram-details {
+    font-weight: bold;
+}
+
+/* Jumbotron styling */
+.jumbotron {
+    /* background-color: #f8f9fa; */
+    padding: 80px;
+    margin-top: 50px;
+    text-align: center; /* Center-align text */
+}
+
+/* Heading styling */
+.display-3 {
+    font-size: 4.5rem;
+    color: #007bff;
+}
+
+/* Lead paragraph styling */
+.lead {
+    font-size: 2rem;
+    color: #6c757d;
+}
+
+/* Button styling */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 20px; /* Add padding to make it look like a button */
+    text-decoration: none; /* Remove underline */
+    color: #fff; /* Text color */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}

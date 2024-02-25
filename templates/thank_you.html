@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You</title>
+    <link rel="stylesheet" href="../static/thank_you.css">
+    <!-- linking remix icons -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="jumbotron text-center">
+        <h1 class="display-3">Thank You!</h1>
+        <p class="lead"><strong>Please check your email</strong> for further instructions on how to complete your account setup.</p>
+        <hr>
+        <!-- <p>
+          Having trouble? <a href="../index.html#contact-us">Contact us</a>
+        </p> -->
+        <p class="lead">
+          <a class="btn btn-primary btn-sm" id="getDirectionsButton" href="#" role="button">Get Directions<i class="ri-arrow-right-s-line"></i></a>
+        </p>
+      </div>
+
+      <h1>Thank You for Your Donation!</h1>
+    
+      {% if ashram %}
+      <div class="ashram-details">
+          <h2>Ashram Name: {{ ashram[1] }}</h2>
+          <p>Location: {{ ashram[2] }}</p>
+          <p>Time of Day: {{ ashram[3] }}</p>
+          <p>Estimated Delivery Time: {{ ashram[4] }}</p>
+          <p>Quantity Needed: {{ ashram[5] }}</p>
+      </div>
+  {% else %}
+      <p>{{ message }}</p>
+  {% endif %}
+      
+    <script>
+        document.getElementById("getDirectionsButton").addEventListener("click", function() {
+            // Open Google Maps for directions
+            window.open("https://www.google.com/maps/dir/?api=1&destination=31.3260,75.5762", "_blank");
+        });
+    </script>
+</body>
+</html>

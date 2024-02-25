@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/donate.css">
+    <title>Food Redistribution Network</title>
+</head>
+
+<body>
+    <div class="square">
+        <i style="--clr:#00ff0a;"></i>
+        <i style="--clr:#ff0057;"></i>
+        <i style="--clr:#fffd44;"></i>
+        <div class="login">
+            <h2>Support Needy </h2>
+            <form id="donationForm" method="post" action="/submit" enctype="multipart/form-data">
+                <div class="inputBx">
+                    <input type="text" id="name" name="name" placeholder="Name" required>
+                </div>
+                <div class="inputBx">
+                    <input type="tel" id="phone" name="phone" pattern="[0-9]{10}" placeholder="Mobile Number" required>
+                </div>
+                <div class="wrapper">
+                    <div class="inputBx">
+                        <input type="text" id="location" name="location" placeholder="Location" required>
+                    </div>
+                    <button id="locationButton">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24"
+                            stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
+                            stroke-linejoin="round">
+                            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                            <path d="M5 12l14 0"></path>
+                            <path d="M13 18l6 -6"></path>
+                            <path d="M13 6l6 6"></path>
+                        </svg>
+                    </button>
+                </div>
+
+
+                <div class="inputBx">
+                    <input type="number" name="donationAmount" id="donationAmountInput" min="1" max="100"
+                        placeholder="Enter number of plates">
+                </div>
+
+                <div class="inputBx">
+                    <select id="timeOfDay" name="time_of_day" required>
+                        <option value="">Select Time of Day</option>
+                        <option value="morning">Morning</option>
+                        <option value="afternoon">Afternoon</option>
+                        <option value="evening">Evening</option>
+                        <option value="night">Night</option>
+                    </select>
+                </div>
+
+
+
+                <div class="inputBx">
+                    <input type="text" id="estimatedDeliveryTime" name="estimated_delivery_time"
+                        placeholder="Estimated Donation Time" required>
+                </div>
+
+                <div class="inputBx sub-btn">
+                    <input type="submit" value="Submit Donation">
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+
+    <script src="../static/script.js"></script>
+</body>
+
+</html>

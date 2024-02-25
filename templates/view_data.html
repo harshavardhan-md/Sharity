@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Donations</title>
+    <style>
+        /* Add your CSS styling here */
+    </style>
+</head>
+<body>
+    <h1>Donations</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Phone</th>
+                <th>Location</th>
+                <th>Time of Day</th>
+                <th>Estimated Delivery Time</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            {% for donation in data %}
+            <tr>
+                <td>{{ donation[1] }}</td>
+                <td>{{ donation[2] }}</td>
+                <td>{{ donation[3] }}</td>
+                <td>{{ donation[4] }}</td>
+                <td>{{ donation[5] }}</td>
+                
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
