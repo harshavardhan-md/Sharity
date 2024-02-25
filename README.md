@@ -7,6 +7,14 @@ Sharity is a web application aimed at reducing food waste and combating hunger b
 ## About Sharity
 Sharity is a full-stack project born out of a desire to address the pressing issues of food waste and hunger in our communities. Inspired by the need for a sustainable solution, Sharity offers a user-friendly interface for food donors to easily share excess food and for recipients to receive nourishment with dignity. By harnessing the power of technology, Sharity aims to foster collaboration and empathy to create a world where no one goes hungry.
 
+# How to Run
+1.  Clone the Repository
+2. Install flask and sql lite
+3. Open Terminal
+4. Run python app.py
+5. Ctrl click on the given link
+6. Website will open in default browser
+
 ## Tools Used
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](/)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](/)
