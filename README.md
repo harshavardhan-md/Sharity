@@ -39,9 +39,9 @@
 
 ### Certificate of Participation
 <!-- Add your certificate image here -->
-```
-[Insert your HackMol 5.0 participation certificate image]
-```
+![Sharity Banner](https://via.placeholder.com/1200x400?text=Sharity:+Fighting+Hunger+Together)
+
+
 ## 🌍 Vision
 
 Sharity is more than just a web application - it's a movement to transform how we think about food waste and hunger. By connecting those with surplus food to those in need, we're building a more sustainable and compassionate world, one meal at a time.
