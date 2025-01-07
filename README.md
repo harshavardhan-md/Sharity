@@ -23,8 +23,8 @@
         <img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
     </a>
 </div>
-
-![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Hackathon_Hackmol5.0.png?raw=true)
+<br>
+![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Sharity.png?raw=true)
 
 </div>
 
