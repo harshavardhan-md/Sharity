@@ -24,7 +24,7 @@
     </a>
 </div>
 <br>
-![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Sharity.png?raw=true)
+![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Hackathon_Hackmol5.0.png)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ### Certificate of Participation
 <!-- Add your certificate image here -->
-![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Hackathon_Hackmol5.0.png?raw=true)
+![Sharity Certficate](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Hackathon_Hackmol5.0.png?raw=true)
 
 
 ## 🌍 Vision
