@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🌟 Sharity
+## *Sharing Hope - Food Redistribution Network: Connecting Surplus to the Needy*
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](/)
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](/)
@@ -9,14 +10,38 @@
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](/)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](/)
 
-> *Bridging the gap between surplus and scarcity - HackMol 5.0*
+> *Bridging the gap between surplus and scarcity - HackMol 5.0 Project*
 
-[Live Demo](#) • [Documentation](#) • [Impact Report](#) • [Contributing](#)
+<div align="center">
+    <a href="YOUR_DEMO_LINK">
+        <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" />
+    </a>
+    <a href="YOUR_YOUTUBE_LINK">
+        <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="YOUR_DEVFOLIO_LINK">
+        <img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
+    </a>
+</div>
 
 ![Sharity Banner](https://via.placeholder.com/1200x400?text=Sharity:+Fighting+Hunger+Together)
 
 </div>
 
+## 🏆 HackMol 5.0 Achievement
+
+<div align="center">
+
+### 🌟 **Top 50 All India Selection** 🌟
+*Selected among 4000+ participants nationwide for the final round at NIT Jalandhar*
+
+</div>
+
+### Certificate of Participation
+<!-- Add your certificate image here -->
+```
+[Insert your HackMol 5.0 participation certificate image]
+```
 ## 🌍 Vision
 
 Sharity is more than just a web application - it's a movement to transform how we think about food waste and hunger. By connecting those with surplus food to those in need, we're building a more sustainable and compassionate world, one meal at a time.
