@@ -13,13 +13,13 @@
 > *Bridging the gap between surplus and scarcity - HackMol 5.0 Project*
 
 <div align="center">
-    <a href="YOUR_DEMO_LINK">
+    <a href="https://sharity.onrender.com/">
         <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" />
     </a>
-    <a href="YOUR_YOUTUBE_LINK">
+    <a href="https://youtu.be/kbk18UY7upc?si=EDWPteBq8udJNwT8">
         <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
-    <a href="YOUR_DEVFOLIO_LINK">
+    <a href="https://devfolio.co/projects/Sharity-137a">
         <img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
     </a>
 </div>
