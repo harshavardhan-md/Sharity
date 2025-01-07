@@ -24,7 +24,7 @@
     </a>
 </div>
 
-![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Hackathon_Hackmol5.0.png)
+![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Sharity.png?raw=true)
 
 </div>
 
