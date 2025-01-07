@@ -24,7 +24,7 @@
     </a>
 </div>
 
-![Sharity Banner](https://via.placeholder.com/1200x400?text=Sharity:+Fighting+Hunger+Together)
+![Sharity Banner](https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Sharity/Hackathon_Hackmol5.0.png?raw=true)
 
 </div>
 
