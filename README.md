@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 🌟 Sharity
 ## *Sharing Hope - Food Redistribution Network: Connecting Surplus to the Needy*
 
